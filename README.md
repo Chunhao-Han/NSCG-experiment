@@ -1,4 +1,4 @@
-# Reproducibility Code for “[Non-convex Stochastic Compositional Optimization Under Heavy-Tailed Noise]”. Short URL: https://optimization-online.org/?p=33308
+# Reproducibility Code for “Non-convex Stochastic Compositional Optimization Under Heavy-Tailed Noise”. Short URL: https://optimization-online.org/?p=33308
 
 The code implements the proposed **NSCG-M** and **NSCG-S** methods and compares them with several stochastic compositional optimization baselines under heavy-tailed noise.
 
