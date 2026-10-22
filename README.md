@@ -33,12 +33,12 @@ The code was tested with the following configuration:
 
 The main experiment compares:
 
-- ASC-PG
-- CIVR
-- SCSC
-- MVRC
-- Clipped-SCG
-- NSCG-M
-- NSCG-S
+- ASC-PG 
+- CIVR 
+- SCSC 
+- MVRC 
+- Clipped-SCG 
+- NSCG-M 
+- NSCG-S 
 
 The exact hyperparameters used in the paper are defined in the `default_config()` function in `main_MDP.m`.
